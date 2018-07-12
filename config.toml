@@ -1,4 +1,5 @@
 theme = "hugo-lithium"
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "First Web"
+
